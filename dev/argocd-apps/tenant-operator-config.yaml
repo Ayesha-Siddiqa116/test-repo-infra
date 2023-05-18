@@ -9,7 +9,7 @@ spec:
     server: 'https://kubernetes.default.svc'
   source:
     path: CLUSTER_NAME/tenant-operator-config
-    repoURL: 'https://github.com/your-organization/infra-gitops-config'
+    repoURL: 'https://github.com/ayeshasiddiqa161/test-repo-infra'
     targetRevision: HEAD
     directory:
       recurse: true

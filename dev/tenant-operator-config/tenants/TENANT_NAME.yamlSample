@@ -9,8 +9,8 @@ spec:
      - abc@gmail.com
   argocd:
       sourceRepos:
-      - 'https://github.com/your-organization/infra-gitops-config'
-      - 'https://github.com/your-organization/apps-gitops-config'
+      - 'https://github.com/ayeshasiddiqa161/test-repo-infra'
+      - 'https://github.com/ayeshasiddiqa161/test-repo-apps'
   templateInstances:
   - spec:
       template: tenant-vault-access
