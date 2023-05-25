@@ -10,7 +10,7 @@ spec:
   argocd:
       sourceRepos:
       - 'https://github.com/ayeshasiddiqa161/test-repo-infra'
-      - 'https://github.com/ayeshasiddiqa161/test-repo-apps'
+      - 'https://github.com/ayeshasiddiqa161/test-apps-gitops'
   templateInstances:
   - spec:
       template: tenant-vault-access
