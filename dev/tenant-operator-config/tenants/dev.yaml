@@ -1,9 +1,9 @@
 apiVersion: tenantoperator.stakater.com/v1beta1
 kind: Tenant
 metadata:
-  name: TENANT_NAME
+  name: gabbar
 spec:
-  quota: TENANT_NAME-large
+  quota: gabbar-large
   owners:
     users:
      - abc@gmail.com
@@ -24,6 +24,6 @@ spec:
     private: true
   specificMetadata:
   - namespaces:
-      - TENANT_NAME-build
+      - gabbar-build
     annotations:
       openshift.io/node-selector: node-role.kubernetes.io/pipeline=
