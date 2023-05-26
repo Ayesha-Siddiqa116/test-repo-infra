@@ -11,10 +11,10 @@ spec:
       sourceRepos:
       - 'https://github.com/ayeshasiddiqa161/test-repo-infra'
       - 'https://github.com/ayeshasiddiqa161/test-apps-gitops'
-  templateInstances:
-  - spec:
-      template: tenant-vault-access
-      sync: true
+#   templateInstances:
+#   - spec:
+#       template: tenant-vault-access
+#       sync: true
   namespaces:
   - build
   - dev
