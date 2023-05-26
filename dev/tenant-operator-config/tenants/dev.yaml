@@ -19,9 +19,9 @@ spec:
   - build
   - dev
   - prod
-  sandboxConfig:
-    enabled: true
-    private: true
+#   sandboxConfig:
+#     enabled: true
+#     private: true
   specificMetadata:
   - namespaces:
       - gabbar-build
