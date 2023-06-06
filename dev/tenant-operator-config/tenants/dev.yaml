@@ -11,6 +11,7 @@ spec:
       sourceRepos:
       - 'git@github.com:ayeshasiddiqa161/test-repo-infra.git'
       - 'git@github.com:ayeshasiddiqa161/test-apps-gitops.git'
+      - 'https://stakater.github.io/stakater-charts'
 #   templateInstances:
 #   - spec:
 #       template: tenant-vault-access
