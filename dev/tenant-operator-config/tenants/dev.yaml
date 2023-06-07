@@ -6,7 +6,7 @@ spec:
   quota: gabbar-large
   owners:
     users:
-     - abc@gmail.com
+     - pele@chelsea.com
   argocd:
       sourceRepos:
       - 'git@github.com:ayeshasiddiqa161/test-repo-infra.git'
