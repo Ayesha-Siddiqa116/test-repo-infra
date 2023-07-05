@@ -7,6 +7,8 @@ spec:
   owners:
     users:
      - pele@chelsea.com
+     - neymar@arsenal.com
+     - messi@chelsea.com
   argocd:
       sourceRepos:
       - 'git@github.com:ayeshasiddiqa161/test-repo-infra.git'
